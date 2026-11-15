@@ -41,6 +41,49 @@ An internal management platform covering sales and orders, creations, materials 
 
 A central service layer responsible for connecting business modules, managing authenticated access, processing operations, and maintaining data consistency.
 
+
+## System Interface Showcase
+
+The following screenshots demonstrate the customer-facing website and the internal business management system developed for Kraf Hibiscus.
+
+### Customer Website
+
+#### Sustainability Impact & Product Showcase
+A public-facing section presenting sustainability impact metrics alongside an interactive carousel of handcrafted products.
+
+![Sustainability Impact and Product Showcase](assets/screenshots/02-customer-home-impact.png)
+
+
+
+#### Interactive Product Experience
+Interactive product cards display additional product details and provide direct WhatsApp enquiry options.
+
+![Interactive Product Experience](assets/screenshots/05-customer-product-interaction.png)
+
+#### Corporate Services & Collaboration
+A dedicated interface for corporate gifting, textile upcycling, workshops, and community collaboration opportunities.
+
+![Corporate Services and Collaboration](assets/screenshots/06-customer-corporate-services.png)
+
+#### Customer Communication
+A customer contact interface integrating WhatsApp enquiries, business information, and Google Maps navigation.
+
+![Customer Contact Page](assets/screenshots/07-customer-contact-page.png)
+
+---
+
+### Admin & Staff Portal
+
+#### Business Operations Dashboard
+A centralised operational dashboard combining sales performance, order activity, inventory alerts, task monitoring, and business insights.
+
+![Business Operations Dashboard](assets/screenshots/08-admin-business-dashboard.png)
+
+*The internal management portal is accessible only to authorised users. Screenshots are provided for demonstration purposes with sensitive information removed.*
+
+---
+  
+
 ## 04. Key Engineering Features
 
 - Role-based access control for customer, administrative, and staff operations.
