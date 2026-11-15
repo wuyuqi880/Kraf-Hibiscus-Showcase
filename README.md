@@ -5,6 +5,16 @@
 
 **Live Customer Website:** https://krafhibiscus.com
 
+
+Kraf Hibiscus was collaboratively developed by a four-member software engineering team.
+
+| No. | Team Member | Role |
+|:---:|---|---|
+| 01 | **WU YUQI** | Project Team Member |
+| 02 | NADA MOHAMMED IBRAHIM ALI | Project Team Member |
+| 03 | NAWSEEDAH | Project Team Member |
+| 04 | BAO YILIN | Project Team Member |
+
 ---
 
 ## 01. Project Overview
